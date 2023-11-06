@@ -8,8 +8,8 @@ import (
 
 	"github.com/cucumber/godog"
 	"github.com/cucumber/godog/gherkin"
-	qcErrors "github.com/yunify/qingcloud-sdk-go/request/errors"
-	qc "github.com/yunify/qingcloud-sdk-go/service"
+	qcErrors "github.com/weihong1998/qingcloud-sdk-go/request/errors"
+	qc "github.com/weihong1998/qingcloud-sdk-go/service"
 )
 
 var instanceService *qc.InstanceService

@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/cucumber/godog"
-	qc "github.com/yunify/qingcloud-sdk-go/service"
+	qc "github.com/weihong1998/qingcloud-sdk-go/service"
 )
 
 func JobFeatureContext(s *godog.Suite) {

@@ -27,8 +27,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yunify/qingcloud-sdk-go/logger"
-	"github.com/yunify/qingcloud-sdk-go/utils"
+	"github.com/weihong1998/qingcloud-sdk-go/logger"
+	"github.com/weihong1998/qingcloud-sdk-go/utils"
 )
 
 // A Config stores a configuration of this sdk.

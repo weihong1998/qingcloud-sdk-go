@@ -1,4 +1,4 @@
-module github.com/yunify/qingcloud-sdk-go
+module github.com/weihong1998/qingcloud-sdk-go
 
 go 1.13
 

@@ -26,9 +26,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yunify/qingcloud-sdk-go/logger"
-	"github.com/yunify/qingcloud-sdk-go/request/data"
-	"github.com/yunify/qingcloud-sdk-go/utils"
+	"github.com/weihong1998/qingcloud-sdk-go/logger"
+	"github.com/weihong1998/qingcloud-sdk-go/request/data"
+	"github.com/weihong1998/qingcloud-sdk-go/utils"
 )
 
 // Builder is the request builder for QingCloud service.
